@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Finite-State
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+FiniteState     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Predicate       KEYWORD2
+Process         KEYWORD2
+EventHandler    KEYWORD2
+begin           KEYWORD2
+transition      KEYWORD2
+execute         KEYWORD2
+id              KEYWORD2
+size            KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+######################################
